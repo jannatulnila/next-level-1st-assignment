@@ -1,5 +1,5 @@
 Blog:
-Question .১️ Interfaces এবং Types-এর মধ্যে পার্থক্য — TypeScript-এ
+Question - ১️ Interfaces এবং Types-এর মধ্যে পার্থক্য — TypeScript-এ
 
 TypeScript-এ interface এবং type alias—দুটোই কোনো object-এর structure বা shape নির্ধারণ করতে ব্যবহৃত হয়। কাজ কাছাকাছি হলেও এদের মধ্যে কিছু গুরুত্বপূর্ণ পার্থক্য আছে। নিচে সেই মূল পার্থক্যগুলো ব্যাখ্যা করা হলো:
 
@@ -45,7 +45,11 @@ interface class দ্বারা implement করার জন্য আদর
 যেখানে object–based structure দরকার, সেখানে interface। আর complex type বা flexibility চাইলে type ব্যবহার করাই ভালো।
 
 
-Question ২ any, unknown এবং never এর পার্থক্য — TypeScript-এ
+
+
+
+
+Question-২ any, unknown এবং never এর পার্থক্য — TypeScript-এ
 
 TypeScript-এ এই তিনটি টাইপ দেখতে একইরকম মনে হলেও, এগুলোর ব্যবহার সম্পূর্ণ আলাদা। ভুল বোঝার কারণে অনেকেই এগুলো ভুল জায়গায় ব্যবহার করে থাকে।
 
